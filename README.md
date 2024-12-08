@@ -1,6 +1,7 @@
 ## Hi there 👋 , I’m Syauqi!
 🎓 Student at UC TATI
 📚 Pursuing Bachelor’s in Information Technology and Business Management (Honours)
+
 💡 Passionate About:
 
 Coding and software development 🖥️
