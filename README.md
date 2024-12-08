@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 , I’m Syauqi!
+🎓 Student at UC TATI
+📚 Pursuing Bachelor’s in Information Technology and Business Management (Honours)
+💡 Passionate About:
 
-<!--
-**cokki-code/cokki-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Coding and software development 🖥️
+Bridging IT and business for innovative solutions 🌐
+Basketball and teamwork both on and off the court 🏀
+🌱 Currently Exploring:
 
-Here are some ideas to get you started:
+Mobile app development
+Data-driven business strategies
+Collaborative coding projects
+🔗 Let’s Connect:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Interests: Open-source projects, tech entrepreneurship, and FYP ideas
+🤝 Open To: Internships and collaborations in IT & business integration
+📂 Portfolio Highlights:
+
+Developing an app for buying, selling, and donating used books or shirts 📚👕
+Working on projects that integrate IT solutions into business challenges
+
